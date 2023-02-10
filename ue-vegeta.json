@@ -10,15 +10,15 @@
   ],
   "theme_color_map": {
     "KEYBOARD": [
-      "#000000"
+      "#6c24c6"
     ],
     "HEADER_PRIMARY": [
-      "#9b0000",
-      "#060607"
+      "#320f2e",
+      "#320f2e"
     ],
     "HEADER_SECONDARY": [
-      "#9b0000",
-      "#4f5660"
+      "##320f2e",
+      "#320f2e"
     ],
     "TEXT_NORMAL": [
       "#FFFFF0",
@@ -29,8 +29,8 @@
       "#747f8d"
     ],
     "INTERACTIVE_NORMAL": [
-      "#9b0000",
-      "#4f5660"
+      "#fe4dfc",
+      "#fe4dfc"
     ],
     "INTERACTIVE_HOVER": [
       "#9b0000",
@@ -45,36 +45,36 @@
       "#c7ccd1"
     ],
     "BACKGROUND_PRIMARY": [
-      "#000000",
-      "#ffffff"
+      "#320f2e",
+      "#320f2e"
     ],
     "BACKGROUND_SECONDARY": [
-      "#000000",
-      "#f2f3f5"
+      "#320f2e",
+      "#320f2e"
     ],
     "BACKGROUND_SECONDARY_ALT": [
       "#000000",
-      "#ebedef"
+      "#000000"
     ],
     "BACKGROUND_TERTIARY": [
-      "#000000",
-      "#e3e5e8"
+      "#2f0f2c",
+      "#2f0f2c"
     ],
     "BACKGROUND_ACCENT": [
-      "#000000",
-      "#747f8d"
+      "#f7b1fa",
+      "#f7b1fa"
     ],
     "BACKGROUND_FLOATING": [
-      "#000000",
-      "#FFFFFF"
+      "#f7b1fa",
+      "#f7b1fa"
     ],
     "BACKGROUND_MOBILE_PRIMARY": [
-      "#000000",
-      "#f8f9f9"
+      "#8b4394",
+      "#8b4394"
     ],
     "BACKGROUND_MOBILE_SECONDARY": [
-      "#000000",
-      "#ffffff"
+      "#8b4394",
+      "#8b4394"
     ],
     "BACKGROUND_NESTED_FLOATING": [
       "#000000",
@@ -149,7 +149,7 @@
   },
   "background": {
     "blur": 1.0,
-    "url": "https://cdn.discordapp.com/attachments/1069667216825520192/1073698047332192256/dragon-ball-super-vegeta-ultra-ego-10712.png",
+    "url": "https://cdn.discordapp.com/attachments/1069667216825520192/1073706206390140949/image.png",
     "alpha": 3.0
   }
 }
